@@ -1,0 +1,6 @@
+{
+  "name": "AutoParts & Invoices",
+  "description": "Inventory management, instant customer rate search, custom specifications, Excel import/export, item discounts, Supabase sync, and professional invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
